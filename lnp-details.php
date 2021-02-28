@@ -138,8 +138,8 @@
 <footer id="footer">
     <div class="container">
       <div class="social-links">
-      <a href="https://api.whatsapp.com/send?phone=5584999690550"" class="google-plus"><i class="icofont-whatsapp"></i></a>
-        <a href="https://www.instagram.com/_merakisolucoes/" class="instagram"><i class="icofont-instagram"></i></a>
+      <a href="https://api.whatsapp.com/send?phone=5584999518784"" class="google-plus"><i class="icofont-whatsapp"></i></a>
+        <a href="https://www.instagram.com/_allanpablo/" class="instagram"><i class="icofont-instagram"></i></a>
         <a href="mailto:allanpablo.ti@gmail.com" class="linkedin"><i class="icofont-mail"></i></a>
       </div>
       <div class="copyright">
