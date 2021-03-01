@@ -203,23 +203,25 @@
               <ul>
                 <h5>Opcionais (não inclusos)</h5>
                 <li>♦️Travessia de balsa (R$60,00 por buggy privativo, taxa única de ida e volta);</li>
-                <li>♦️Aerobunda (a partir de R$15,00 por pessoa cada descida);<li>
-                <li>♦️Entrada no Maior Cajueiro do Mundo (R$8,00 por pessoa);<li>
-                <li>♦️Pedalinhos e caiaque (a partir de R$25,00 por pessoa, cerca de 30 min de permanência)<li>
-                <li>♦️Almoço em média R$50,00 por pessoa.<li>
+                <li>♦️Aerobunda (a partir de R$15,00 por pessoa cada descida);</li>
+                <li>♦️Entrada no Maior Cajueiro do Mundo (R$8,00 por pessoa);</li>
+                <li>♦️Pedalinhos e caiaque (a partir de R$25,00 por pessoa, cerca de 30 min de permanência)</li>
+                <li>♦️Almoço em média R$50,00 por pessoa.</li>
                 (Os Valores dos opcionais podem sofrer alterações sem aviso prévio).
               </ul>
             </div>
 
             <div>
-              <h5>
-              VALOR DO PASSEIO
-              </h5>
-              <P>
-                Dinheiro: R$450,00 
-                Cartão até 12x sem juros: R$495,00
-                Valores válidos no período de 01/12/2020 até 20/12/2020.
-              </P>
+                <ul>
+                  <h5>
+                  VALOR DO PASSEIO
+                  </h5>
+                  <P>
+                    <br>Dinheiro: R$550,00 
+                    <br>Cartão até 12x sem juros: R$600,00
+                    <br>Valores válidos 31/03/2021.
+                  </P>
+                </ul>
             </div>
 
       </div>
