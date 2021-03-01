@@ -82,9 +82,20 @@
         <div class="portfolio-details-container" data-aos="fade-up">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/portfolio/lagoa1.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/lagoas.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/lagoas3.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags1.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags2.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags3.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags4.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags5.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags6.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags7.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags8.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags9.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags10.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags11.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags12.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lags/lags13.JPG" class="img-fluid" alt="">
+
 
           </div>
 

@@ -398,121 +398,112 @@
         </div>
         <div class="row portfolio-container" data-aos="fade-up">
           <div class="col-lg-4 col-md-6 portfolio-item filter-LITS">
-            <div class="portfolio-img"><img src="assets/img/LS/" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/LS/ls33.JPG" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Litoral Sul</h4>
-              <p>Balsa</p>
-              <a href="assets/img/portfolio/balsa.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+
+              <a href="assets/img/LS/ls33.JPG" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Litoral Sul"><i class="icofont-ui-zoom-in"></i></a>
               <a href="lits-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LAGS">
-            <div class="portfolio-img"><img src="assets/img/portfolio/lagoas.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/lags/lags12.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Lagoa Sul</h4>
-              <p>Lagoa de Arituba</p>
-              <a href="assets/img/portfolio/lagoas.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+              <a href="assets/img/lags/lags12.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Lagoa Sul"><i class="icofont-ui-zoom-in"></i></a>
               <a href="lags-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LNP">
-            <div class="portfolio-img"><img src="assets/img/portfolio/pordosol1.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/lnp/lnp13.JPG" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Litoral Norte Premium</h4>
-              <p>Por do Sol</p>
-              <a href="assets/img/portfolio/pordosol1.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+
+              <a href="assets/img/lnp/lnp13.JPG" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Litoral Norte Premium"><i class="icofont-ui-zoom-in"></i></a>
               <a href="lnp-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LITN">
-            <div class="portfolio-img"><img src="assets/img/portfolio/dunna1.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/ln/ln2.JPG" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Litoral Norte</h4>
-              <p>Dunas</p>
-              <a href="assets/img/portfolio/dunna1.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+
+              <a href="assets/img/ln/ln2.JPG" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Litoral Norte"><i class="icofont-ui-zoom-in"></i></a>
               <a href="litn-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LITS">
-            <div class="portfolio-img"><img src="assets/img/portfolio/pipa.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/ls/ls40.JPG" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Litoral Sul</h4>
-              <p>Pipa</p>
-              <a href="assets/img/portfolio/pipa.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+              <a href="assets/img/ls/ls40.JPG" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Litoral Sul"><i class="icofont-ui-zoom-in"></i></a>
               <a href="lits-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LAGS">
-            <div class="portfolio-img"><img src="assets/img/portfolio/lagoas3.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/lags/lags7.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Lagoas Sul</h4>
-              <p>Passeio</p>
-              <a href="assets/img/portfolio/lagoas3.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+              <a href="assets/img/lags/lags7.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Lagoas Sul"><i class="icofont-ui-zoom-in"></i></a>
               <a href="lags-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LITN">
-            <div class="portfolio-img"><img src="assets/img/portfolio/ln.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/ln/ln21.JPG" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Litoral Norte</h4>
-              <p>Lagoa</p>
-              <a href="assets/img/portfolio/ln.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+              <a href="assets/img/ln/ln21.JPG" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Litoral Norte"><i class="icofont-ui-zoom-in"></i></a>
               <a href="litn-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LNP">
-            <div class="portfolio-img"><img src="assets/img/portfolio/12.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/ln/ln3.JPG" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Litoral Norte</h4>
-              <p>Quer Emoção?</p>
-              <a href="assets/img/portfolio/12.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+              <a href="assets/img/ln/ln3.JPG" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Litoral Norte"><i class="icofont-ui-zoom-in"></i></a>
               <a href="lnp-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LITS">
-            <div class="portfolio-img"><img src="assets/img/portfolio/lits.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/ls/ls40.JPG" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Litoral Sul</h4>
-              <p>Praias Sul</p>
-              <a href="assets/img/portfolio/lits.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+              <a href="assets/img/ls/ls40.JPG" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Litoral Sul"><i class="icofont-ui-zoom-in"></i></a>
               <a href="lits-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LAGS">
-            <div class="portfolio-img"><img src="assets/img/portfolio/lagoa1.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/lags/lags10.jpg" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Lagoas Sul</h4>
-              <p>Extras</p>
-              <a href="assets/img/portfolio/lagoa1.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+              <a href="assets/img/lags/lags10.jpg" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Lagoas Sul"><i class="icofont-ui-zoom-in"></i></a>
               <a href="lags-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LITN">
-            <div class="portfolio-img"><img src="assets/img/portfolio/genipabu.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/ln/ln5.JPG" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Litoral Norte</h4>
-              <p>Praia Genipabu</p>
-              <a href="assets/img/portfolio/genipabu.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+              <a href="assets/img/ln/ln25.JPG" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Litoral Norte"><i class="icofont-ui-zoom-in"></i></a>
               <a href="litn-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 portfolio-item filter-LNP">
-            <div class="portfolio-img"><img src="assets/img/portfolio/11.jpeg" class="img-fluid" alt=""></div>
+            <div class="portfolio-img"><img src="assets/img/lnp/lnp22.JPG" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
               <h4>Litoral Norte Premium</h4>
-              <p>Por do Sol</p>
-              <a href="assets/img/portfolio/11.jpeg" data-gall="portfolioGallery" class="venobox preview-link"
+              <a href="assets/img/lnp/lnp22.JPG" data-gall="portfolioGallery" class="venobox preview-link"
                 title="Litoral Norte Premium"><i class="icofont-ui-zoom-in"></i></a>
               <a href="lnp-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
             </div>

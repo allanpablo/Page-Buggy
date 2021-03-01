@@ -82,11 +82,65 @@
         <div class="portfolio-details-container" data-aos="fade-up">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/portfolio/ls.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/lits.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/pipa.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/lts2.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/caju.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls1.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls2.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls3.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls4.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls5.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls6.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls7.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls8.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls9.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls10.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls11.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls12.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls13.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls14.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls15.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls16.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls17.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls18.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls19.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls20.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls21.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls22.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls23.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls24.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls25.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls26.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls27.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls28.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls29.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls30.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls31.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls32.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls33.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls34.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls35.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls36.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls37.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls38.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls39.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls40.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls41.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls42.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls43.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls44.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls45.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls46.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls47.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls48.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls49.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls50.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls51.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls52.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls53.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls54.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls55.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls56.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls57.JPG" class="img-fluid" alt="">
+            <img src="assets/img/ls/ls58.JPG" class="img-fluid" alt="">
+
           </div>
 
           <div class="portfolio-info">

@@ -82,13 +82,68 @@
         <div class="portfolio-details-container" data-aos="fade-up">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/portfolio/11.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/12.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/dromedario.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/dunna.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/genipabu.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/litn.jpeg" class="img-fluid" alt="">
-            <img src="assets/img/portfolio/litn2.jpeg" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp1.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp2.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp3.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp4.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp5.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp6.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp7.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp8.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp9.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp10.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp11.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp12.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp13.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp14.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp15.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp16.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp17.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp18.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp19.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp20.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp21.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp22.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp23.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp24.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp25.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp26.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp27.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp28.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp29.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp30.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp31.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp32.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp33.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp34.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp35.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp36.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp37.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp38.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp39.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp40.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp41.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp42.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp43.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp44.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp45.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp46.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp47.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp48.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp49.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp50.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp51.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp52.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp53.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp54.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp55.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp56.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp57.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp58.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp59.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp60.JPG" class="img-fluid" alt="">
+            <img src="assets/img/lnp/lnp61.JPG" class="img-fluid" alt="">
+
           </div>
 
           <div class="portfolio-info">
