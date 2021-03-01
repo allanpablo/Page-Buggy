@@ -399,11 +399,11 @@
           </div>
           <div class="row portfolio-container" data-aos="fade-up">
             <div class="col-lg-4 col-md-6 portfolio-item filter-LITS">
-              <div class="portfolio-img"><img src="<?php echo INCLUDE_PATH; ?>assets/img/LS/ls33.JPG" class="img-fluid" alt=""></div>
+              <div class="portfolio-img"><img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls33.JPG" class="img-fluid" alt=""></div>
               <div class="portfolio-info">
                 <h4>Litoral Sul</h4>
 
-                <a href="<?php echo INCLUDE_PATH; ?>assets/img/LS/ls33.JPG" data-gall="portfolioGallery" class="venobox preview-link"
+                <a href="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls33.JPG" data-gall="portfolioGallery" class="venobox preview-link"
                   title="Litoral Sul"><i class="icofont-ui-zoom-in"></i></a>
                 <a href="<?php echo INCLUDE_PATH; ?>lits-details.php" class="details-link" title="More Details"><i class="icofont-tags"></i></a>
               </div>

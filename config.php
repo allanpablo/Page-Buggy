@@ -10,7 +10,7 @@
 	spl_autoload_register($autoload);
 
 
-	define('INCLUDE_PATH','https://passeiodebuggy.com/');
+	define('INCLUDE_PATH','./');
 	//Conectar com banco de dados!
 	define('HOST','localhost');
 	define('USER','root');
@@ -21,5 +21,4 @@
 	define('NOME_EMPRESA','MerakiSolucoes');
 
 
-    
 ?>
