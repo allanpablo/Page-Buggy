@@ -10,7 +10,7 @@
 	spl_autoload_register($autoload);
 
 
-	define('INCLUDE_PATH','http://localhost/passeiodebuggy/');
+	define('INCLUDE_PATH','https://passeiodebuggy.com/');
 	//Conectar com banco de dados!
 	define('HOST','localhost');
 	define('USER','root');

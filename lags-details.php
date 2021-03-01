@@ -40,7 +40,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo flow mr-auto">
-        <a href="<?php echo INCLUDE_PATH; ?>index.php"><img src="<?php echo INCLUDE_PATH; ?>assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
+        <a href="<?php echo INCLUDE_PATH; ?>#"><img src="<?php echo INCLUDE_PATH; ?>assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
       </div>
 
 <!--      <nav class="nav-menu d-none d-lg-block">
@@ -67,7 +67,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Detalhes Viagens Lagoas Litoral Sul</h2>
           <ol>
-            <li><a href="<?php echo INCLUDE_PATH; ?>index.php">Home</a></li>
+            <li><a href="<?php echo INCLUDE_PATH; ?>#">Home</a></li>
             <li>Lagoas Litoral Sul</li>
           </ol>
         </div>
@@ -148,9 +148,9 @@
               <ul>
                 <h5>Opcionais (não inclusos)</h5>
                 <li>♦️Travessia de balsa (R$60,00 por buggy privativo, taxa única de ida e volta);</li>
-                <li>♦️Aerobunda (a partir de R$15,00 por pessoa cada descida);<li>
-                <li>♦️Pedalinhos e caiaque (a partir de R$25,00 por pessoa, cerca de 30 min de permanência)<li>
-                <li>♦️Almoço em média R$50,00 por pessoa.<li>
+                <li>♦️Aerobunda (a partir de R$15,00 por pessoa cada descida);</li>
+                <li>♦️Pedalinhos e caiaque (a partir de R$25,00 por pessoa, cerca de 30 min de permanência)</li>
+                <li>♦️Almoço em média R$50,00 por pessoa.</li>
                 (Os Valores dos opcionais podem sofrer alterações sem aviso prévio).
               </ul>
             </div>

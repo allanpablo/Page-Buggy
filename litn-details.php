@@ -40,7 +40,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo flow mr-auto">
-        <a href="<?php echo INCLUDE_PATH; ?> index.php"><img src="<?php echo INCLUDE_PATH; ?>assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
+        <a href="<?php echo INCLUDE_PATH; ?> #"><img src="<?php echo INCLUDE_PATH; ?>assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
       </div>
 
 <!--      <nav class="nav-menu d-none d-lg-block">
@@ -68,7 +68,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Detalhes Viagens Litoral Norte</h2>
           <ol>
-            <li><a href="<?php echo INCLUDE_PATH; ?>index.php">Home</a></li>
+            <li><a href="<?php echo INCLUDE_PATH; ?>#">Home</a></li>
             <li>Litoral Norte</li>
           </ol>
         </div>
@@ -83,7 +83,6 @@
         <div class="portfolio-details-container" data-aos="fade-up">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln1.JPG" class="img-fluid" alt="">
             <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln2.JPG" class="img-fluid" alt="">
             <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln3.JPG" class="img-fluid" alt="">
             <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln4.JPG" class="img-fluid" alt="">
@@ -171,11 +170,11 @@
                 <h5>Opcionais (não inclusos)</h5>
                 <li>♦️Travessia de balsa (R$10,00 por pessoa, ou R$40,00 por buggy privativo, taxa única de ida e volta);</li>
                 <li>♦️Taxa de Acesso as dunnas (R$2,50 por pessoa ou R$10,00 por buggy privativo "Taxa única");</li>
-                <li>♦️Aerobunda (a partir de R$15,00 por pessoa cada descida);<li>
-                <li>♦️Skybunda (a partir de R$15,00 por pessoa cada descida);<li>
-                <li>♦️Entrada no Aquário Natal (R$35,00 por pessoa);<li>
-                <li>♦️Passeio nos Dromedários (R$60,00 por pessoa);<li>
-                <li>♦️Almoço em média R$62,00 por pessoa.<li>
+                <li>♦️Aerobunda (a partir de R$15,00 por pessoa cada descida);</li>
+                <li>♦️Skybunda (a partir de R$15,00 por pessoa cada descida);</li>
+                <li>♦️Entrada no Aquário Natal (R$35,00 por pessoa);</li>
+                <li>♦️Passeio nos Dromedários (R$60,00 por pessoa);</li>
+                <li>♦️Almoço em média R$62,00 por pessoa.</li>
                 (Os Valores dos opcionais podem sofrer alterações sem aviso prévio).
               </ul>
             </div>
