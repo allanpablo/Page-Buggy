@@ -126,6 +126,55 @@
                       <li><i class="icofont-beach"></i> Praia de Muriú;</li>
                   </ul>
           </p>
+            <div>
+              <ul>
+                <h5>
+                  OBSERVAÇÕES:
+                </h5>
+                <li>♦️Bugueiro Credenciado</li>
+                <li>♦️Seguro Passageiro</li>
+                <li>♦️Passeio realizado em buggy.</li>
+                <li>♦️Total de 6-7 horas de duração entre saída e chegada no hotel</li>
+                <li>♦️Passeio privativo ou compartilhado</li>
+                <li>♦️Pegamos e deixamos na recepção do hotel (Praia de Ponta Negra, Via Costeira, Praia do Meio e Praia dos Artistas). Demais localidades consultar!</li>
+                <li>♦️A criança de qualquer idade paga e conta como um adulto.</li>
+                <li>♦️Cada Buggy sai com no máximo 4 passageiros (O valor deste passeio é por buggy e pode ir até 4 passageiros).</li> 
+              </ul>
+            </div>
+
+            <div>
+              <ul>
+                <h5>Opcionais (não inclusos)</h5>
+                <li>♦️Travessia de balsa (R$10,00 por pessoa, ou R$40,00 por buggy privativo, taxa única de ida e volta);</li>
+                <li>♦️Taxa de Acesso as dunnas (R$2,50 por pessoa ou R$10,00 por buggy privativo "Taxa única");</li>
+                <li>♦️Aerobunda (a partir de R$15,00 por pessoa cada descida);<li>
+                <li>♦️Skybunda (a partir de R$15,00 por pessoa cada descida);<li>
+                <li>♦️Entrada no Aquário Natal (R$35,00 por pessoa);<li>
+                <li>♦️Passeio nos Dromedários (R$60,00 por pessoa);<li>
+                <li>♦️Almoço em média R$62,00 por pessoa.<li>
+                (Os Valores dos opcionais podem sofrer alterações sem aviso prévio).
+              </ul>
+            </div>
+
+            <div>
+              <h5>
+              VALOR DO PASSEIO
+              </h5>
+              <P>
+                Dinheiro: R$400,00 
+                Cartão até 12x sem juros: R$440,00 por buggy privativo.
+
+                Ou
+
+              Dinheiro: R$100,00 por pessoa no passeio compartilhado
+              Cartão até 12x sem juros: R$110,00 por pessoa no passeio compartilhado
+              (No compartilhado não é garantido a ida com o Bugueiro Dannyel. Nesta opção, poderá ser outros bugueiros parceiros)
+
+              Valores válidos no período de 01/12/2020 até 20/12/2020.
+
+
+              </P>
+            </div>
         </div>
 
       </div>

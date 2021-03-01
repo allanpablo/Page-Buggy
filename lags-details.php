@@ -102,19 +102,58 @@
 
         <div class="portfolio-description">
           <h2>Detalhes da Viagem</h2>
-          <p >
+          <p>
                     &nbsp;&nbsp;&nbsp;&nbsp;Nem só de praias invejáveis vive o nosso Nordeste Brasileiro!
                     Um ótimo destino para quem quer relaxar em águas doces.
                     Um típico passeio aonde as crianças se divertem e os adultos relaxam
                     Neste passeio você e sua família contemplaram 03 lagoas maravilhosas que não poderá deixar de visitar.
 
-                </p>
+
                   <ul>
                       <li><i class="icofont-beach"></i> Lagoa do Carcará;</li>
                       <li><i class="icofont-beach"></i> Lagoa de Alcaçuz;</li>
                       <li><i class="icofont-beach"></i> Lagoa da Juventude;</li>
 
                   </ul>
+          </p>
+
+                  <div>
+              <ul>
+                <h5>
+                  OBSERVAÇÕES:
+                </h5>
+                <li>♦️Bugueiro Credenciado</li>
+                <li>♦️Seguro Passageiro</li>
+                <li>♦️Passeio realizado em buggy.</li>
+                <li>♦️Total de 6-7 horas de duração entre saída e chegada no hotel</li>
+                <li>♦️Passeio privativo</li>
+                <li>♦️Pegamos e deixamos na recepção do hotel (Praia de Ponta Negra, Via Costeira, Praia do Meio e Praia dos Artistas). Demais localidades consultar!</li>
+                <li>♦️A criança de qualquer idade paga e conta como um adulto.</li>
+                <li>♦️Cada Buggy sai com no máximo 4 passageiros (O valor deste passeio é por buggy e pode ir até 4 passageiros).</li> 
+              </ul>
+            </div>
+
+            <div>
+              <ul>
+                <h5>Opcionais (não inclusos)</h5>
+                <li>♦️Travessia de balsa (R$60,00 por buggy privativo, taxa única de ida e volta);</li>
+                <li>♦️Aerobunda (a partir de R$15,00 por pessoa cada descida);<li>
+                <li>♦️Pedalinhos e caiaque (a partir de R$25,00 por pessoa, cerca de 30 min de permanência)<li>
+                <li>♦️Almoço em média R$50,00 por pessoa.<li>
+                (Os Valores dos opcionais podem sofrer alterações sem aviso prévio).
+              </ul>
+            </div>
+
+            <div>
+              <h5>
+              VALOR DO PASSEIO
+              </h5>
+              <P>
+                Dinheiro: R$400,00 
+                Cartão até 12x sem juros: R$440,00
+                Valores válidos no período de 01/12/2020 até 20/12/2020.
+              </P>
+            </div>
         </div>
 
       </div>

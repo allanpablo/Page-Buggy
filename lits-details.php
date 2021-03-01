@@ -126,8 +126,47 @@
                   <li><i class="icofont-beach"></i> Praia da Pipa;</li>
                   <li><i class="icofont-beach"></i> Chapadão da Praia do Amor;</li>
                 </ul>
+            
           </p>
-        </div>
+        
+            <div>
+              <ul>
+                <h5>
+                  OBSERVAÇÕES:
+                </h5>
+                <li>♦️Bugueiro Credenciado</li>
+                <li>♦️Seguro Passageiro</li>
+                <li>♦️Passeio realizado em buggy.</li>
+                <li>♦️Total de 6-7 horas de duração entre saída e chegada no hotel</li>
+                <li>♦️Passeio privativo</li>
+                <li>♦️Pegamos e deixamos na recepção do hotel (Praia de Ponta Negra, Via Costeira, Praia do Meio e Praia dos Artistas). Demais localidades consultar!</li>
+                <li>♦️A criança de qualquer idade paga e conta como um adulto.</li>
+                <li>♦️Cada Buggy sai com no máximo 4 passageiros (O valor deste passeio é por buggy e pode ir até 4 passageiros).</li> 
+              </ul>
+            </div>
+
+            <div>
+              <ul>
+                <h5>Opcionais (não inclusos)</h5>
+                <li>♦️Travessia de balsa (R$60,00 por buggy privativo, taxa única de ida e volta);</li>
+                <li>♦️Aerobunda (a partir de R$15,00 por pessoa cada descida);<li>
+                <li>♦️Entrada no Maior Cajueiro do Mundo (R$8,00 por pessoa);<li>
+                <li>♦️Pedalinhos e caiaque (a partir de R$25,00 por pessoa, cerca de 30 min de permanência)<li>
+                <li>♦️Almoço em média R$50,00 por pessoa.<li>
+                (Os Valores dos opcionais podem sofrer alterações sem aviso prévio).
+              </ul>
+            </div>
+
+            <div>
+              <h5>
+              VALOR DO PASSEIO
+              </h5>
+              <P>
+                Dinheiro: R$450,00 
+                Cartão até 12x sem juros: R$495,00
+                Valores válidos no período de 01/12/2020 até 20/12/2020.
+              </P>
+            </div>
 
       </div>
     </section><!-- End Portfolio Details Section -->
