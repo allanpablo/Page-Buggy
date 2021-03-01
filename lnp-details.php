@@ -18,18 +18,18 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
    <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet" >
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/icofont/icofont.min.css" rel="stylesheet" >
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/css/style.css" rel="stylesheet">
 
 </head>
 
@@ -40,7 +40,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo flow mr-auto">
-        <a href="index.php"><img src="assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
+        <a href="<?php echo INCLUDE_PATH; ?>#"><img src="<?php echo INCLUDE_PATH; ?>assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
       </div>
 
 <!--      <nav class="nav-menu d-none d-lg-block">
@@ -67,7 +67,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Detalhes Viagens Litoral Norte Premium</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="<?php echo INCLUDE_PATH; ?>#">Home</a></li>
             <li>Litoral Norte Premium</li>
           </ol>
         </div>
@@ -82,67 +82,67 @@
         <div class="portfolio-details-container" data-aos="fade-up">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/lnp/lnp1.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp2.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp3.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp4.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp5.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp6.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp7.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp8.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp9.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp10.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp11.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp12.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp13.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp14.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp15.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp16.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp17.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp18.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp19.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp20.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp21.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp22.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp23.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp24.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp25.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp26.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp27.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp28.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp29.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp30.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp31.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp32.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp33.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp34.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp35.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp36.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp37.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp38.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp39.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp40.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp41.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp42.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp43.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp44.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp45.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp46.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp47.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp48.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp49.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp50.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp51.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp52.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp53.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp54.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp55.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp56.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp57.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp58.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp59.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp60.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lnp/lnp61.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp1.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp2.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp3.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp4.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp5.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp6.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp7.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp8.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp9.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp10.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp11.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp12.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp13.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp14.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp15.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp16.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp17.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp18.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp19.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp20.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp21.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp22.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp23.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp24.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp25.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp26.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp27.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp28.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp29.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp30.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp31.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp32.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp33.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp34.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp35.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp36.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp37.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp38.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp39.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp40.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp41.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp42.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp43.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp44.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp45.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp46.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp47.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp48.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp49.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp50.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp51.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp52.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp53.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp54.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp55.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp56.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp57.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp58.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp59.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp60.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lnp/lnp61.JPG" class="img-fluid" alt="">
 
           </div>
 
@@ -214,7 +214,10 @@
                 <h5>Opcionais (não inclusos)</h5>
                 <li>♦️Travessia de balsa (R$10,00 por pessoa, ou R$40,00 por buggy privativo, taxa única de ida e volta);</li>
                 <li>♦️Taxa de Acesso as dunnas (R$2,50 por pessoa ou R$10,00 por buggy privativo "Taxa única");</li>
+<<<<<<< HEAD
                  <li>♦️Taxa de Acesso as dunnas Móveis ( R$10,00 por pessoa);</li>
+=======
+>>>>>>> b75b61b70a18597b3166bc43e7cf202e502da40d
                 <li>♦️Aerobunda (a partir de R$15,00 por pessoa cada descida);</li>
                 <li>♦️Camicase (a partir de R$15,00 por pessoa cada descida);</li>
                 <li>♦️Skybunda (a partir de R$15,00 por pessoa cada descida);</li>
@@ -260,18 +263,19 @@
     </div>
   </footer><!-- End Footer -->
 
-  <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
+  <a href="https://api.whatsapp.com/send?phone=5584999690550" class="back-to-top zap"><i
+      class="icofont-whatsapp"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/jquery/jquery.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/venobox/venobox.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/aos/aos.js"></script>
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/js/main.js"></script>
 
 </body>
 

@@ -830,7 +830,7 @@ section {
   border-color: #ef6603;
 }
 
-.portfolio ul{
+.portfolio .div{
  
   display: flex;
   align-items: center;
@@ -839,7 +839,11 @@ section {
   vertical-align: top;
 }
 
+<<<<<<< HEAD
 .portfolio #portfolio-filters li {
+=======
+.portfolio #portfolio-filters .div {
+>>>>>>> b75b61b70a18597b3166bc43e7cf202e502da40d
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -852,16 +856,17 @@ section {
   transition: all 0.3s ease-in-out;
 }
 
-.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+.portfolio #portfolio-flters .div:hover, .portfolio #portfolio-flters .div.filter-active {
   color: #ef6603;
 }
 
-.portfolio #portfolio-flters li.filter-active::before, .portfolio #portfolio-flters li.filter-active::after {
+.portfolio #portfolio-flters .div.filter-active::before, .portfolio #portfolio-flters .div.filter-active::after {
   color: #ef6603;
 }
 
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+  margin-top: 20px;
 }
 
 .portfolio .portfolio-item .portfolio-img {
@@ -936,9 +941,14 @@ section {
 .portfolio .portfolio-item .portfolio-links a:hover {
   color: #fd9f5b;
 }
+.portfolio img{
+  width: auto;
+  height: auto;
+  max-height: 720px;
+}
 
 .portfolio .portfolio-item:hover .portfolio-img img {
-  transform: scale(1.2);
+  transform: scale(1.3);
 }
 
 .portfolio .portfolio-item:hover .portfolio-info {
@@ -1482,15 +1492,30 @@ section {
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
+  margin-top: 0.5rem;
+}
+
+.portfolio-details img{
+
 }
 
 .portfolio-details .portfolio-details-container {
   position: relative;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  
 }
 
 .portfolio-details .portfolio-details-carousel {
   position: relative;
   z-index: 1;
+}
+
+.portfolio-details .portfolio-details-carousel img {
+width: auto;
+height: auto;
+max-height: 720px;
 }
 
 .portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
@@ -1499,7 +1524,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-dot {
-  display: inline-block;
+  display: none;
   margin: 0 10px 0 0;
   width: 12px;
   height: 12px;

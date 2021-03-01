@@ -11,25 +11,25 @@
   <meta content="Buggy, Passeio, Natal, Viagem, Litoral Sul, Litoral Norte" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/logo.png" rel="icon">
-  <link href="assets/img/logo.png" rel="apple-touch-icon">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/img/logo.png" rel="icon">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/img/logo.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
    <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet" >
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/icofont/icofont.min.css" rel="stylesheet" >
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/css/style.css" rel="stylesheet">
 
 </head>
 
@@ -40,7 +40,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo flow mr-auto">
-        <a href="index.php"><img src="assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
+        <a href="<?php echo INCLUDE_PATH; ?> #"><img src="<?php echo INCLUDE_PATH; ?>assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
       </div>
 
 <!--      <nav class="nav-menu d-none d-lg-block">
@@ -68,7 +68,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Detalhes Viagens Litoral Norte</h2>
           <ol>
-            <li><a href="index.php">Home</a></li>
+            <li><a href="<?php echo INCLUDE_PATH; ?>#">Home</a></li>
             <li>Litoral Norte</li>
           </ol>
         </div>
@@ -83,35 +83,34 @@
         <div class="portfolio-details-container" data-aos="fade-up">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/ln/ln1.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln2.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln3.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln4.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln5.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln6.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln7.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln8.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln9.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln10.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln11.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln12.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln13.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln14.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln15.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln16.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln17.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln18.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln19.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln20.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln21.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln22.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln23.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln24.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln25.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln26.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln27.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln28.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ln/ln29.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln2.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln3.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln4.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln5.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln6.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln7.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln8.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln9.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln10.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln11.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln12.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln13.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln14.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln15.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln16.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln17.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln18.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln19.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln20.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln21.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln22.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln23.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln24.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln25.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln26.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln27.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln28.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ln/ln29.JPG" class="img-fluid" alt="">
 
 
           </div>
@@ -221,18 +220,19 @@
     </div>
   </footer><!-- End Footer -->
 
-  <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
+  <a href="https://api.whatsapp.com/send?phone=5584999690550" class="back-to-top zap"><i
+      class="icofont-whatsapp"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/jquery/jquery.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/venobox/venobox.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/aos/aos.js"></script>
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/js/main.js"></script>
 
 </body>
 
