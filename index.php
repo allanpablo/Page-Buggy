@@ -13,25 +13,25 @@
   <meta content="Buggy, Passeio, Natal, Viagem, Litoral Sul, Litoral Norte" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/logo.png" rel="icon">
-  <link href="assets/img/logo.png" rel="apple-touch-icon">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/img/logo.png" rel="icon">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/img/logo.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/css/style.css" rel="stylesheet">
 
 </head>
 
@@ -42,7 +42,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo flow  mr-auto">
-        <a href="#"><img src="assets/img/logo.png" alt="Passeio de Buggy"></a>
+        <a href="#"><img src="<?php echo INCLUDE_PATH; ?>assets/img/logo.png" alt="Passeio de Buggy"></a>
       </div>
 
       <nav class="nav-menu d-none d-lg-block">

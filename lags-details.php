@@ -11,25 +11,25 @@
   <meta content="Buggy, Passeio, Natal, Viagem, Litoral Sul, Litoral Norte" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/logo.png" rel="icon">
-  <link href="assets/img/logo.png" rel="apple-touch-icon">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/img/logo.png" rel="icon">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/img/logo.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
    <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet" >
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/icofont/icofont.min.css" rel="stylesheet" >
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/css/style.css" rel="stylesheet">
 
 </head>
 
@@ -40,7 +40,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo flow mr-auto">
-        <a href="index.php"><img src="assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
+        <a href="<?php echo INCLUDE_PATH; ?>index.php"><img src="<?php echo INCLUDE_PATH; ?>assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
       </div>
 
 <!--      <nav class="nav-menu d-none d-lg-block">
@@ -67,7 +67,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Detalhes Viagens Lagoas Litoral Sul</h2>
           <ol>
-            <li><a href="index.php">Home</a></li>
+            <li><a href="<?php echo INCLUDE_PATH; ?>index.php">Home</a></li>
             <li>Lagoas Litoral Sul</li>
           </ol>
         </div>
@@ -82,19 +82,19 @@
         <div class="portfolio-details-container" data-aos="fade-up">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/lags/lags1.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags2.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags3.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags4.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags5.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags6.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags7.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags8.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags9.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags10.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags11.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags12.JPG" class="img-fluid" alt="">
-            <img src="assets/img/lags/lags13.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags1.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags2.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags3.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags4.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags5.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags6.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags7.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags8.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags9.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags10.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags11.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags12.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/lags/lags13.JPG" class="img-fluid" alt="">
 
 
           </div>
@@ -193,16 +193,17 @@
       class="icofont-whatsapp"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/jquery/jquery.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/venobox/venobox.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/aos/aos.js"></script>
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/js/main.js"></script>
 
 </body>
 
 </html>
+?>

@@ -18,18 +18,18 @@
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Spartan&display=swap" rel="stylesheet">
    <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/line-awesome/css/line-awesome.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="<?php echo INCLUDE_PATH; ?>assets/css/style.css" rel="stylesheet">
 
 </head>
 
@@ -40,7 +40,7 @@
     <div class="container d-flex align-items-center">
 
       <div class="logo flow mr-auto">
-        <a href="index.php"><img src="assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
+        <a href="<?php echo INCLUDE_PATH; ?>index.php"><img src="<?php echo INCLUDE_PATH; ?>assets/img/logo.png"  alt="Passeio de Buggy">&nbsp;&nbsp;&nbsp;&nbsp;Passeios com Dannyel Almeida</a>
       </div>
 
 <!--      <nav class="nav-menu d-none d-lg-block">
@@ -67,7 +67,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Detalhes Viagens Litoral Sul</h2>
           <ol>
-            <li><a href="index.php">Home</a></li>
+            <li><a href="<?php echo INCLUDE_PATH; ?>index.php">Home</a></li>
             <li>Litoral Sul</li>
           </ol>
         </div>
@@ -82,64 +82,64 @@
         <div class="portfolio-details-container" data-aos="fade-up">
 
           <div class="owl-carousel portfolio-details-carousel">
-            <img src="assets/img/ls/ls1.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls2.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls3.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls4.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls5.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls6.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls7.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls8.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls9.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls10.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls11.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls12.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls13.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls14.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls15.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls16.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls17.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls18.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls19.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls20.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls21.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls22.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls23.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls24.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls25.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls26.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls27.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls28.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls29.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls30.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls31.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls32.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls33.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls34.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls35.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls36.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls37.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls38.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls39.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls40.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls41.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls42.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls43.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls44.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls45.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls46.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls47.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls48.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls49.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls50.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls51.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls52.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls53.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls54.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls55.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls56.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls57.JPG" class="img-fluid" alt="">
-            <img src="assets/img/ls/ls58.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls1.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls2.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls3.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls4.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls5.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls6.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls7.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls8.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls9.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls10.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls11.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls12.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls13.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls14.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls15.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls16.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls17.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls18.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls19.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls20.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls21.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls22.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls23.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls24.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls25.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls26.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls27.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls28.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls29.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls30.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls31.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls32.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls33.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls34.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls35.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls36.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls37.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls38.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls39.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls40.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls41.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls42.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls43.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls44.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls45.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls46.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls47.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls48.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls49.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls50.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls51.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls52.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls53.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls54.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls55.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls56.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls57.JPG" class="img-fluid" alt="">
+            <img src="<?php echo INCLUDE_PATH; ?>assets/img/ls/ls58.JPG" class="img-fluid" alt="">
 
           </div>
 
@@ -248,13 +248,13 @@
       class="icofont-whatsapp"></i></a>
 
   <!-- Vendor JS Files -->
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/jquery/jquery.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/venobox/venobox.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="<?php echo INCLUDE_PATH; ?>assets/vendor/aos/aos.js"></script>
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
 
