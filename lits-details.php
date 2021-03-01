@@ -244,7 +244,8 @@
     </div>
   </footer><!-- End Footer -->
 
-  <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
+  <a href="https://api.whatsapp.com/send?phone=5584999690550" class="back-to-top zap"><i
+      class="icofont-whatsapp"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/jquery/jquery.min.js"></script>

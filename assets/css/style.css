@@ -805,7 +805,7 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio #portfolio-flters {
-  /*list-style: none;*/
+  list-style: none;
   margin-bottom: 20px;
 }
 .portfolio .nav-link {
@@ -839,7 +839,7 @@ section {
   vertical-align: top;
 }
 
-.portfolio #portfolio-flters li {
+.portfolio #portfolio-filters li {
   cursor: pointer;
   display: flex;
   align-items: center;
