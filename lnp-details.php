@@ -65,10 +65,10 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Detalhes Viagens Litoral Sul</h2>
+          <h2>Detalhes Viagens Litoral Norte Premium</h2>
           <ol>
             <li><a href="index.html">Home</a></li>
-            <li>Litoral Sul</li>
+            <li>Litoral Norte Premium</li>
           </ol>
         </div>
 

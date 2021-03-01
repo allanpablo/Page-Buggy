@@ -69,7 +69,7 @@
           <h2>Detalhes Viagens Litoral Norte</h2>
           <ol>
             <li><a href="index.php">Home</a></li>
-            <li>Litoral Sul</li>
+            <li>Litoral Norte</li>
           </ol>
         </div>
 
